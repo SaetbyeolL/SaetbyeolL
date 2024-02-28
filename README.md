@@ -33,12 +33,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;"> 
     <a href="https://linkedin.com/in/saetbyeoll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saetbyeoll" height="30" width="40" /></a><br>
-    </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    </div>  
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Saetbyeol Lim&custom_title=Saetbyeol Lim's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saetbyeol Lim&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Languages </h2> 
+    <div style="text-align: left;"> </div> 
     </div>
-    
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saetbyeoll&show_icons=true&locale=en&layout=compact" alt="saetbyeoll" /></p>
