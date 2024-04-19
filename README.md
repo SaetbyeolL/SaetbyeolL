@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=#b897ff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi 👋, I'm Saetbyeol Lim </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi 👋, I'm Saetbyeol Lim ⭐</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Welcome to my GitHub world!</li><br>
     </li>I'm passionate about learning new skills every day, I thrive on challenges and constantly seek to expand my skill set :) </div><br />
     <div>I've been learning <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> since April 8, 2024</div>
