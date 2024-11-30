@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Welcome to my GitHub world!</li><br>
     </li>I'm passionate about learning new skills every day, I thrive on challenges and constantly seek to expand my skill set  :) </div>
     <div>Please visit my portfolio website ➜ https://saetbyeoll.github.io/Portfolio/  🤗</div><br>
-    <div>I recently created django website ➜ http://www.stellagraphy.site/   🪐✨🌙</div>  
+    <div>Social Media website ➜ http://www.stellagraphy.site/   🪐✨🌙</div>  
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
