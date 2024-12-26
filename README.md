@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=#b897ff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi 👋, I'm Saetbyeol Lim ⭐</h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi 👋, I'm Saetbyeol (Stella) Lim ⭐</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Welcome to my GitHub world!</li><br>
     </li>I'm passionate about learning new skills every day, I thrive on challenges and constantly seek to expand my skill set  :) </div>
     <div>Please visit my portfolio website ➜ https://saetbyeoll.github.io/Portfolio/  🤗</div><br>
